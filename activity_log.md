@@ -35,3 +35,6 @@
 | 18/11/2026 | ALL | Discussed and distributed assignment tasks. | WhatsApp |
 | 19/11/2026 | Arif | Build a log activity table in GitHub | GitHub |
 | 19/11/2026 | Arif | Insert and adjust report cover page | Microsoft Word |
+| 19/11/2026 | Amsyar | Created repository for log activity | GitHub |
+
+---
