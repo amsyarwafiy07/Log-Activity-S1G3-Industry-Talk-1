@@ -8,7 +8,7 @@
 | 18/11/2026 | Clairie | Searched for academic definitions of creative thinking. | Google Chrome |
 | 18/11/2026 | Clairie | Retrieved a review article discussing definitions of creativity. | Google Scholar |
 | 18/11/2026 | Clairie | Identified characteristics of creative individuals from an academic journal. | Google Scholar |
-| 19/11/2026 | Arif | Searched for information related to HOTS | |
+| 19/11/2026 | Arif | Searched for information related to HOTS | Google Chrome|
 | 19/11/2026 | Arif | Retrieved information from journal article related to HOTS | Google Chrome |
 | 19/11/2026 | Amsyar | Collect background information of the speaker | Google Chrome |
 | 19/11/2026 | Batrisya | Searched more information related to scientific thinking | Google Scholar |
