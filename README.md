@@ -1,0 +1,1 @@
+# Log-Activity-S1G3-Industry-Talk-1
