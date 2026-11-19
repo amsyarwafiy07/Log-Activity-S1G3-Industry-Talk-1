@@ -31,3 +31,4 @@
 | Date | Group Member | Activity / Prompt | Tools used |
 | :--- | :--- | :--- | :--- |
 | 18/11/2026 | ALL | Discussed and distributed assignment tasks. | WhatsApp |
+| 19/11/2026 | Arif | Build a acticity log table in GitHub | Gemini |
