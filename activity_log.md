@@ -23,6 +23,7 @@
 | 18/11/2026 | Batrisya | "What defined scientific thinking." | ChatGPT |
 | 18/11/2026 | Amsyar | Designed the report cover page. | Canva |
 | 18/11/2026 | Clairie | “Explain the relevance of creative thinking to metacognitive learning.” | ChatGPT |
+| 19/11/2026 | Arif | "Can you help me build a table similar like this picture in md coding file ?" | Gemini |
 
 ---
 
@@ -31,4 +32,5 @@
 | Date | Group Member | Activity / Prompt | Tools used |
 | :--- | :--- | :--- | :--- |
 | 18/11/2026 | ALL | Discussed and distributed assignment tasks. | WhatsApp |
-| 19/11/2026 | Arif | Build a acticity log table in GitHub | Gemini |
+| 19/11/2026 | Arif | Build a log activity table in GitHub | GitHub |
+| 19/11/2026 | Arif | Insert and adjust report cover page | Microsoft Word |
