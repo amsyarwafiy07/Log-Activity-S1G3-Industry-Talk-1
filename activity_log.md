@@ -24,6 +24,7 @@
 | 18/11/2026 | Amsyar | Designed the report cover page. | Canva |
 | 18/11/2026 | Clairie | “Explain the relevance of creative thinking to metacognitive learning.” | ChatGPT |
 | 19/11/2026 | Arif | "Can you help me build a table similar like this picture in md coding file ?" | Gemini |
+| 19/11/2026 | Clairie | 	Reformatted the thinking approaches into a table based on group discussion to improve space utilisation. | Microsoft Word |
 
 ---
 
