@@ -1,6 +1,6 @@
-## 6.0 LOG ACTIVITY
+## Log Activity S1G3 Industry Talk 1
 
-### 6.1 Research and Information Gathering – Academic papers, Google Chrome, Google Scholar searches and other resources
+### Research and Information Gathering – Academic papers, Google Chrome, Google Scholar searches and other resources
 
 | Date | Group Member | Activity / Prompt | Tools used |
 | :--- | :--- | :--- | :--- |
@@ -15,7 +15,7 @@
 
 ---
 
-### 6.2 Digital Tools and Assistance - Microsoft Word, Canva, ChatGPT and Google Drive
+### Digital Tools and Assistance - Microsoft Word, Canva, ChatGPT and Google Drive
 
 | Date | Group Member | Activity / Prompt | Tools used |
 | :--- | :--- | :--- | :--- |
@@ -28,7 +28,7 @@
 
 ---
 
-### 6.3 Group Collaboration and GitHub Contributions – Task distribution, progress updates, file sharing and repository management.
+### Group Collaboration and GitHub Contributions – Task distribution, progress updates, file sharing and repository management.
 
 | Date | Group Member | Activity / Prompt | Tools used |
 | :--- | :--- | :--- | :--- |
